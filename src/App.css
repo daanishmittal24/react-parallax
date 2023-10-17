@@ -75,26 +75,22 @@
   background-image: url(./images/logo_land.png);
 }
 
-#jungle1 {
-  background-image: url(./images/jungle1.png);
+#logo {
+  background-image: url(./images/logo.png);
 }
 
-#jungle2 {
-  background-image: url(./images/jungle2.png);
+#right2_baloon {
+  background-image: url(./images/baloon_right2.png);
 }
 
-#jungle3 {
-  background-image: url(./images/jungle3.png);
+#cen_baloon {
+  background-image: url(./images/baloon_cen.png);
 }
 
-#jungle4 {
-  background-image: url(./images/jungle4.png);
-}
-
-#jungle5 {
-  background-image: url(./images/jungle5.png);
+#right_baloon {
+  background-image: url(./images/baloon_right.png);
 }
 
 #manonmountain {
-  background-image: url(./images/man_on_mountain.png);
+  background-image: url(./images/bal_left.png);
 }
